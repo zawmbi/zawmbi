@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="center">Hello! My name is Linda and I'm a bioinformatics student from Chicago! Here are my academic projects along with my coding side quests I do for fun. Let's connect!</h2>
 
 ###
