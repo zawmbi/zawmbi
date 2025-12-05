@@ -48,10 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
 </div>
 
-###
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-
-  <!-- GitHub Stats -->
-![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=zawmbi&show_icons=true&theme=radical)
-
-###
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zawmbi" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zawmbi&layout=compact&langs_count=8&card_width=320" />
+</a>
