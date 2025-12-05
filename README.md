@@ -52,9 +52,6 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <!-- GitHub Stats -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=zawmbi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="zawmbi's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawmbi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="zawmbi's Top Languages" />
-  </div>
+![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=zawmbi&show_icons=true&theme=radical)
 
 ###
