@@ -47,5 +47,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=zawmbi&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Linda's GitHub Stats" />
