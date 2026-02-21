@@ -1,4 +1,4 @@
-<h2 align="center">Hello! My name is Linda and I'm a coding/bioinformatics student from Chicago! Here are my academic projects along with my coding side quests. Let's connect!</h2>
+<h2 align="center">Hello! My name is Linda and I'm a coder in Chicago! Here are my some of my coding side quests. Let's connect!</h2>
 
 ###
 
