@@ -2,7 +2,7 @@
 
 # Hi, I'm Linda!
 
-**Software Engineer · Bioinformatics · Full-Stack · iOS ·**
+**Software & Data Engineer · Bioinformatics · Full-Stack · iOS ·**
 Chicago based · [zawmbi.com](https://zawmbi.com) · [ljmansour02@gmail.com](mailto:ljmansour02@gmail.com) · [LinkedIn](https://linkedin.com/in/lindamansourr) · [ORCID](https://orcid.org/0009-0000-9262-7246)
 
 **Open to full-stack, data engineering, and research software roles.** 
