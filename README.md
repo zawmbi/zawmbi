@@ -113,6 +113,5 @@ Here is my rosalind profile [Rosalind](https://rosalind.info/users/oceanlion/) a
 
 expanding monitr's userbase · larger clade queries in MissMap · uploading project demos · phylabeler's GUI · my thesis
 
-**Reach me at [ljmansour02@gmail.com](mailto:ljmansour02@gmail.com)**. I'm happy to send a résumé, walk through my code, or talk about a role.
 
 </div>
