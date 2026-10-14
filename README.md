@@ -5,7 +5,6 @@
 **Software & Data Engineer · Bioinformatics · Full-Stack · iOS ·**
 Chicago based · [zawmbi.com](https://zawmbi.com) · [ljmansour02@gmail.com](mailto:ljmansour02@gmail.com) · [LinkedIn](https://linkedin.com/in/lindamansourr) · [ORCID](https://orcid.org/0009-0000-9262-7246)
 
-**Open to full-stack, data engineering, and research software roles.** 
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGwAAABaCAYAAABdRbN9AAABT0lEQVR42u3dPQrCMACA0dxC3MRNvItHcHD0CA7i7OTs4C4ewMuIm%2BfQCzRCIG2T5gW%2BrZCf16FLSQgjjeV69a250NoABgwYMGDAgAEbBOD2fGRps992luv5WNUDAwMGDBgwYMCADQIT29jxeslS7KD7LnWdqcDAgAEDBgwYMGB1gcUmyAXQN2Su5%2FsuGyQwYMCAAQMGDBiwCQUMGDBgAgYMGDABAwYMmIABAwYsb7PFPKnX591ZafMCAwYMGDBgwICVCVbL53vqwcUqbV5gwIABAwYMGDBgwIABAwYMGDBgwGoBKw3yfj4nVdqLlbp%2BYMCAAQMGDBgwYMCAAQMGDBgwYMCmCrY7HTrz69D%2FYucGDBgwYMCAAQNWFxjIymCAAQMGDBgwYMBGBct1pWJsY7XU3B2YwIABAwYMGDBgRQKXVmhtAAMGDBgwYMDaAvsBj6CbRa3DgUcAAAAASUVORK5CYII%3D&logoColor=white&labelColor=0d1117)](https://zawmbi.com)
 &nbsp;
