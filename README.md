@@ -84,8 +84,6 @@ Published under my studio, **Zawmbi Productions**.
 </tr>
 </table>
 
-**In development:** <img src="https://raw.githubusercontent.com/zawmbi/syllabus-to-calendar/main/syllabustocalendar.png" width="18" align="center" alt=""> **[Syllabus to Calendar](https://github.com/zawmbi/syllabus-to-calendar)** turns a course syllabus into a full semester of calendar events in a few minutes. `Swift` · `SwiftUI`
-
 ---
 
 ## Education & Research
